@@ -1,2 +1,6 @@
 # Computer-Network-Lab-Project by Met-A-Four
-Member: Jyotishko Roy
+Members: 
+Jyotishko Roy
+Kushal Roy Chowdhury
+Namrata Dutta Banik
+Nilesh Kumar Ghosh
